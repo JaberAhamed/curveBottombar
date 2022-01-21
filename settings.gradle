@@ -1,0 +1,3 @@
+rootProject.name = "CurvedBottomNavigation"
+include ':curved_bottom_navigation'
+include ':sample'
